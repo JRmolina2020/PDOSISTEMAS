@@ -97,7 +97,7 @@ $('#formulario') .bootstrapValidator({
 			message: 'The username is not valid',
 			validators: {
 				notEmpty: {
-					message: 'El nick es obligatorio y no puede estar vacio.'
+					message: 'El Nombre de la categoria es obligatorio.'
 				},
 				stringLength: {
 					min: 4,
